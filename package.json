@@ -1,7 +1,7 @@
 {
   "name": "gulp-boilerplate",
   "version": "1.0.0",
-  "description": "Frontend boilerplate based on gulp",
+  "description": "Responsive landing page layout for THE MET museum, built with HTML, SCSS and JS.",
   "scripts": {
     "init": "mate-scripts init",
     "start": "mate-scripts start",
